@@ -29,7 +29,8 @@ The target users for the Campus Map application primarily include:
 - Faculty
 - Staff
 - Visitors navigating the campus
-story board
+
+### Story Board
 
 ![image](https://github.com/user-attachments/assets/8f66612b-70f4-4f35-b188-f19a37e65066)
 
