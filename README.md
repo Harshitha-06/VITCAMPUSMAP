@@ -35,7 +35,7 @@ The target users for the Campus Map application primarily include:
 ![image](https://github.com/user-attachments/assets/8f66612b-70f4-4f35-b188-f19a37e65066)
 
 
-### Key Features
+## Key Features
 
 | **Feature**           | **Description**                                                                                   |
 |-----------------------|---------------------------------------------------------------------------------------------------|
